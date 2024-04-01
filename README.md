@@ -2,7 +2,7 @@
 
 🔭 I’m currently developing tools to increase the productivity of data scientists and machine learning engineers.
 
-🌱 I’m currently researching generative AI using PyTorch and Hugging Face.
+🌱 I’m currently researching the use of reinforcement learning to improve generative AI performance.
 
 Thanks for visiting!
 
